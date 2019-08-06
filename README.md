@@ -1,1 +1,5 @@
-# KPMG2019
+# Diversity in Data event on August 6th
+
+“Data related disciplines, from machine learning to data engineering, robotics and more, continually reshape the world we live in. In a field that reinvents today and builds up tomorrow, it is more crucial than ever that everyone has a voice. Diversity in Data aims to celebrate the achievements of data practitioners and leaders today.
+Our latest event in the Diversity in Data series, titled “How data shapes the world”, is coming this August. In a world where algorithms decide who gets a home loan, what we see on Facebook and YouTube and even what news we should be reading, the juggle between instant connectivity and constant tracking is impacting our daily lives and our privacy. As Artificial Intelligence is learning both the good and the bad from our past selves, we take a step back and explore how data is shaping the world, how it impacts our society and what key benefits and red flags data professionals need to look out for when trying to build a better and more diverse future.
+Join us on Tuesday, 6th August 2019 at 6pm for talks from a number of highly regarded data practitioners from various sectors and backgrounds to celebrate and advocate for diversity in data.”
